@@ -1668,3 +1668,8 @@ Docker Desktop의 WSL2 Backend를 사용하려면 WSL 기능 활성화와 재부
 기존 컨테이너를 삭제한 후 새로운 컨테이너에 동일한 Volume을 연결하여 기존 데이터가 유지되는 것을 확인했습니다.
 
 ![Docker Volume 영속성](screenshots/docker-volume.png)
+### VS Code / GitHub 연동
+
+VS Code Source Control에서 로컬 Git Repository와 GitHub 원격 저장소가 연결된 상태를 확인했습니다.
+
+![VS Code GitHub 연동](screenshots/vscode-github.png)
